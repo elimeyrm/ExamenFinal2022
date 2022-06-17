@@ -1,0 +1,4 @@
+Capitulo 1: Introduccion a Git
+	Git nos ayuda a tener un control de versiones de los proyectos con el fin de tener una mejor gestion en cuanto a cambios sobre el proyecto y tambien hacer posible el trabajo entre varios desarrolladores de forma remota o presencial 
+Capitulo 2: Flujo de trabajo basico
+Capitulo 3: Repositorios remotos
